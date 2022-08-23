@@ -28,24 +28,24 @@ import os
 
 # %% PARAMTERS
 
-csv_directory_list = ['/Users/vjs/turbidites/observational/data/BACAX_ntu_2019/*.csv']
-## DAta type/column name for htese templates:
-data_type_list = ['turbntu']
-## Unit of data:
-data_unit_list = ['NTU']
-## Station names:
-station_name_list = ['BACAX']
-
-
-# #### for fourmile:
-# ## List of directories to go through to convert
-# csv_directory_list= ['/home/dkilb/barkley/data/BACAX/turbidityntu/*.csv','/home/dkilb/barkley/data/BACHY/turbidityntu/*.csv','/home/dkilb/barkley/data/BACUS/turbidityftu/*.csv'
+# csv_directory_list = ['/Users/vjs/turbidites/observational/data/BACAX_ntu_2019/*.csv']
 # ## DAta type/column name for htese templates:
-# data_type_list = ['turbntu','turbntu','turbftu']
+# data_type_list = ['turbntu']
 # ## Unit of data:
-# data_unit_list = ['NTU','NTU','FTU']
+# data_unit_list = ['NTU']
 # ## Station names:
-# station_name_list = ['BACAX','BACHY','BACUS']
+# station_name_list = ['BACAX']
+
+
+#### for fourmile:
+## List of directories to go through to convert
+csv_directory_list= ['/home/dkilb/barkley/data/BACAX/turbidityntu/*.csv','/home/dkilb/barkley/data/BACHY/turbidityntu/*.csv','/home/dkilb/barkley/data/BACUS/turbidityftu/*.csv']
+## DAta type/column name for htese templates:
+data_type_list = ['turbntu','turbntu','turbftu']
+## Unit of data:
+data_unit_list = ['NTU','NTU','FTU']
+## Station names:
+station_name_list = ['BACAX','BACHY','BACUS']
 
 ## dta network:
 data_network = 'ONC'
@@ -65,7 +65,8 @@ data_network = 'ONC'
 for j_directory_ind in range(len(csv_directory_list)):
     ## Get the glob directory wildcard:
     j_directory = csv_directory_list[j_directory_ind]
-    
+    print('working on %s' % j_directory)
+
     ## Get the glob list:
     j_all_paths = glob(j_directory)
     
