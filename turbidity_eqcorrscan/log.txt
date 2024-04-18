@@ -1,0 +1,34 @@
+working on /Users/vjs/turbidites/observational/data/templates/BACAXturbidityntu/csv2mseed/reformated_BACAX_ntu_2019_template_notfiltered_2_15_1.1254_1_0_0.5_20191224T035330_signal_only.mseed 
+
+working on /Users/vjs/turbidites/observational/data/templates/BACAXturbidityntu/csv2mseed/reformated_BACAX_ntu_2019_template_notfiltered_2_15_1.1254_1_0_0.5_20191127T051230_signal_only.mseed 
+
+working on /Users/vjs/turbidites/observational/data/templates/BACAXturbidityntu/csv2mseed/reformated_BACAX_ntu_2019_template_notfiltered_2_15_1.1254_1_0_0.5_20190926T141030_signal_only.mseed 
+
+working on /Users/vjs/turbidites/observational/data/templates/BACAXturbidityntu/csv2mseed/reformated_BACAX_ntu_2019_template_notfiltered_2_15_1.1254_1_0_0.5_20190104T020830_signal_only.mseed 
+
+working on /Users/vjs/turbidites/observational/data/templates/BACAXturbidityntu/csv2mseed/reformated_BACAX_ntu_2019_template_notfiltered_2_15_1.1254_1_0_0.5_20191225T183530_signal_only.mseed 
+
+working on /Users/vjs/turbidites/observational/data/templates/BACAXturbidityntu/csv2mseed/reformated_BACAX_ntu_2019_template_notfiltered_2_15_1.1254_1_0_0.5_20191030T050530_signal_only.mseed 
+
+working on /Users/vjs/turbidites/observational/data/templates/BACAXturbidityntu/csv2mseed/reformated_BACAX_ntu_2019_template_notfiltered_2_15_1.1254_1_0_0.5_20190122T033830_signal_only.mseed 
+
+working on /Users/vjs/turbidites/observational/data/templates/BACAXturbidityntu/csv2mseed/reformated_BACAX_ntu_2019_template_notfiltered_2_15_1.1254_1_0_0.5_20190704T163230_signal_only.mseed 
+
+working on /Users/vjs/turbidites/observational/data/templates/BACAXturbidityntu/csv2mseed/reformated_BACAX_ntu_2019_template_notfiltered_2_15_1.1254_1_0_0.5_20191117T054530_signal_only.mseed 
+
+working on /Users/vjs/turbidites/observational/data/templates/BACAXturbidityntu/csv2mseed/reformated_BACAX_ntu_2019_template_notfiltered_2_15_1.1254_1_0_0.5_20190515T022530_signal_only.mseed 
+
+working on /Users/vjs/turbidites/observational/data/templates/BACAXturbidityntu/csv2mseed/reformated_BACAX_ntu_2019_template_notfiltered_2_15_1.1254_1_0_0.5_20190218T030930_signal_only.mseed 
+
+working on /Users/vjs/turbidites/observational/data/templates/BACAXturbidityntu/csv2mseed/reformated_BACAX_ntu_2019_template_notfiltered_2_15_1.1254_1_0_0.5_20191007T105430_signal_only.mseed 
+
+working on /Users/vjs/turbidites/observational/data/templates/BACAXturbidityntu/csv2mseed/reformated_BACAX_ntu_2019_template_notfiltered_2_15_1.1254_1_0_0.5_20190130T021330_signal_only.mseed 
+
+working on /Users/vjs/turbidites/observational/data/templates/BACAXturbidityntu/csv2mseed/reformated_BACAX_ntu_2019_template_notfiltered_2_15_1.1254_1_0_0.5_20190509T113530_signal_only.mseed 
+
+working on /Users/vjs/turbidites/observational/data/templates/BACAXturbidityntu/csv2mseed/reformated_BACAX_ntu_2019_template_notfiltered_2_15_1.1254_1_0_0.5_20190219T050130_signal_only.mseed 
+
+working on /Users/vjs/turbidites/observational/data/templates/BACAXturbidityntu/csv2mseed/reformated_BACAX_ntu_2019_template_notfiltered_2_15_1.1254_1_0_0.5_20191208T040830_signal_only.mseed 
+
+working on /Users/vjs/turbidites/observational/data/templates/BACAXturbidityntu/csv2mseed/reformated_BACAX_ntu_2019_template_notfiltered_2_15_1.1254_1_0_0.5_20191223T030830_signal_only.mseed 
+
